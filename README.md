@@ -3,4 +3,4 @@ En este repositorio muestro diferentes ejercicios que hice a lo largo de mi form
 
 **--**  
 - [Shell Scripting](https://drive.google.com/drive/folders/1UTa1bsjzNDZlzm1wLeHp1QCeG1_PWhIw?usp=sharing)
-- [C#](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4F7mym8Ca16RoTDVAlIOPlT)
+- [C# y .NET](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4F7mym8Ca16RoTDVAlIOPlT)
