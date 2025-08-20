@@ -1,0 +1,4 @@
+SELECT MAX(suma_sal)
+FROM (SELECT NUMDE numdep, SUM(SALAR) suma_sal
+      FROM TEMPLE
+      GROUP BY NUMDE) TABLA;
