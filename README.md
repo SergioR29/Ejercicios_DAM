@@ -9,6 +9,6 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
 - [PL/SQL](https://drive.google.com/drive/folders/1leV4EZUt59vtbf4gFBNGxBPJj9Pr75GW?usp=drive_link)
 
 ## Herramientas para cada lenguaje
-- **Shell**: Bash (Terminal de Linux).
+- **Shell**: Bash y editor de textos.
 - **C# y .NET**: Visual Studio Community 2022.
 - **PL/SQL**: Oracle DB 21 XE, SQL Plus, SQL Developer.
