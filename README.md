@@ -11,4 +11,4 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
 ## Herramientas para cada lenguaje
 - **Shell**: Bash y editor de textos.
 - **C# y .NET**: Visual Studio Community 2022.
-- **PL/SQL**: Oracle DB 21 XE, SQL Plus, SQL Developer.
+- **PL/SQL**: Oracle DB 21 XE, SQL Plus, SQL Developer y editor de textos.
