@@ -6,3 +6,4 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
 ## Enlaces  
 - [Shell Scripting](https://drive.google.com/drive/folders/1UTa1bsjzNDZlzm1wLeHp1QCeG1_PWhIw?usp=sharing)
 - [C# y .NET](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4F7mym8Ca16RoTDVAlIOPlT)
+- [PL/SQL](https://drive.google.com/drive/folders/1leV4EZUt59vtbf4gFBNGxBPJj9Pr75GW?usp=drive_link)
