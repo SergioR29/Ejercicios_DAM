@@ -1,0 +1,1 @@
+SELECT NOMEM FROM TEMPLE WHERE NOMEM LIKE '___,%'; /*Seleccionar empleados cuyo apellido empiece por 3 letras, cada '_' es una letra y cada % es una cadena de caracteres*/

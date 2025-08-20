@@ -1,0 +1,1 @@
+SELECT NOMEM FROM TEMPLE WHERE NOMEM LIKE 'P%, M%'; /*Si fuese %M significaría que muestre nombres que acaban en M*/

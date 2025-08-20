@@ -1,0 +1,6 @@
+CREATE TABLE EMPLEADOS70 AS (SELECT FECIN
+							 FROM TEMPLE
+							 WHERE FECIN > '1970-1-1');
+                                  
+SELECT FECIN
+FROM EMPLEADOS70;
