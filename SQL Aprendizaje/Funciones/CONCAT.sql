@@ -1,0 +1,1 @@
+SELECT CONCAT ('Departamento de ', NOMDE) FROM TDEPTO;

@@ -1,0 +1,1 @@
+SELECT LOG(45, 5), LOG(45); /*LOG con sólo 1 número es neperiano*/

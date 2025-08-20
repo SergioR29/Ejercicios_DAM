@@ -1,0 +1,1 @@
+SELECT NOMEM, MAX(SALAR) FROM TEMPLE; /*No se pueden poner nombres de columnas si en el select ya hemos puesto una función de columna*/

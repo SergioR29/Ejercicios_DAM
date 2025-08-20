@@ -1,0 +1,1 @@
+SELECT UPPER('Hola Pepe') FROM DUAL;
