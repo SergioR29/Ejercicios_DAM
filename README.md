@@ -9,7 +9,7 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
 - [PL/SQL](https://drive.google.com/drive/folders/1leV4EZUt59vtbf4gFBNGxBPJj9Pr75GW?usp=drive_link)
 
 ## Proyectos
-- [Industria Musical](https://github.com/SergioR29/PROYECTO_ORACLE): Basado en el SGBD Oracle y PL/SQL.
+- [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE): Basado en el SGBD Oracle y PL/SQL.
 
 ## Herramientas para cada lenguaje
 - **Shell**: Bash y editor de textos.
