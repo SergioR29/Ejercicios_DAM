@@ -11,6 +11,7 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
 ## Proyectos
 - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE): Proyecto maven basado en una industria musical que utiliza Java, PL/SQL, SQL y Oracle DB XE 21c.
 - [TURISMO & PLANNING](https://github.com/SergioR29#turismo--planning-): TFG del CFGS DAM con su producto final disponible con una variante para Windows y otra para Android.
+- [AyuntamientoMarchamalo](https://github.com/SergioR29#ayuntamiento-de-marchamalo-%EF%B8%8F): Proyecto de prácticas de 2ºDAM que salió destacado en las noticias del ayuntamiento del que además fui colaborador.
 
 ## Herramientas para cada lenguaje
 - **Shell**: Bash y editor de textos.
