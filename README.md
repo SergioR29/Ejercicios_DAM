@@ -13,7 +13,8 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
 - [AyuntamientoMarchamalo](https://github.com/SergioR29#ayuntamiento-de-marchamalo-%EF%B8%8F): Proyecto de prácticas de 2ºDAM que salió destacado en las noticias del ayuntamiento del que además fui colaborador.
   
 ## Proyectos (anteriores a TFG y Prácticas)
-- [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE): Proyecto Maven basado en una industria musical que utiliza Java, PL/SQL, SQL y Oracle DB XE 21c.
+- [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE): Proyecto Maven basado en una industria musical que utiliza Java, PL/SQL, SQL y Oracle DB XE 21c. Este proyecto se basa en una aplicación en consola programada en Java que permite al usuario final consultar mucha información acerca de la industria musical.  
+   
 - [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A): Proyecto basado en una fábrica que utiliza Python, SQL, pyreportjasper y Jaspersoft Studio. Este proyecto ha sido pensado para que la fábrica pueda generar sus informes en formato PDF.
 
 ## Herramientas para cada lenguaje
