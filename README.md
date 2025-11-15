@@ -14,7 +14,7 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
   
 ## Proyectos (anteriores a TFG y Prácticas)
 - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE): Proyecto Maven basado en una industria musical que utiliza Java, PL/SQL, SQL y Oracle DB XE 21c.
-- [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A): Proyecto basado en una fábrica que utiliza Python, SQL, pyreportjasper y Jaspersoft Studio.
+- [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A): Proyecto basado en una fábrica que utiliza Python, SQL, pyreportjasper y Jaspersoft Studio. Este proyecto ha sido pensado para que la fábrica pueda generar sus informes en formato PDF.
 
 ## Herramientas para cada lenguaje
 - **Shell**: Bash y editor de textos.
