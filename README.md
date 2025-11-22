@@ -17,7 +17,7 @@ Hay enlaces disponibles a cada paquete de ejercicios o cursos online relacionado
    
 - [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A): Proyecto basado en una fábrica que utiliza Python, SQL, pyreportjasper y Jaspersoft Studio. Este proyecto ha sido pensado para que la fábrica pueda generar sus informes en formato PDF.
    
-- [Inmobiliaria](https://github.com/SergioR29/Inmobiliaria) Proyecto Maven basado en una inmobiliaria que utiliza Java y MongoDB (BD NoSQL, por lo tanto, no relacional). Este proyecto se basa en una aplicación en consola programada en Java que permite al usuario final consultar mucha información acerca de la inmobiliaria y realizar todo tipo de operaciones (Insertar, Consultar, Modificar, Borrar).  
+- [Inmobiliaria](https://github.com/SergioR29/Inmobiliaria): Proyecto Maven basado en una inmobiliaria que utiliza Java y MongoDB (BD NoSQL, por lo tanto, no relacional). Este proyecto se basa en una aplicación en consola programada en Java que permite al usuario final consultar mucha información acerca de la inmobiliaria y realizar todo tipo de operaciones (Insertar, Consultar, Modificar, Borrar).  
 
 ## Herramientas para cada lenguaje
 - **Shell**: Bash y editor de textos.
