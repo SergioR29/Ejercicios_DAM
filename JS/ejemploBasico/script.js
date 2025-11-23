@@ -1,0 +1,1 @@
+alert("Hola Mundo!\n\nMira el codigo HTML de esta pagina web para saber integrar JavaScript de la manera correcta en todas las paginas web.");
